@@ -7,6 +7,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Headers (one or more)
 * Baihui Wang(Lexie)
 * Emphasis (italics or/and bold)
+* From Dalian, China. Studied in Japan, Australia before. Interested in Political Science, Economics, Business etc. 
 * Lists
 * Images: add a picture (of yourself or something else) to your repo and embed it in your README
 * ![idphoto](https://github.com/user-attachments/assets/2ee439cb-8ba2-431b-b433-062cc0f94efe)
